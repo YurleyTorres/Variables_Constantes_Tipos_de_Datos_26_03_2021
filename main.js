@@ -19,5 +19,5 @@ let Vaso = {//Objeto
 	diametro :  50,
 	lleno : true
 };
-console.log(baso);
-console.log(baso.diametro);
+consola.log(Vaso);
+consola.log(Vaso.diametro);
